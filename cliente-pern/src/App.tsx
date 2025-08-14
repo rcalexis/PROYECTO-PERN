@@ -7,9 +7,11 @@ import VerProducto from './components/Productos/producto';
 function App() {
   return (
     <>
+    
       <Formulario />
       <Lista />
       <VerProducto />
+
     </>
   );
 }
